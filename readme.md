@@ -9,7 +9,7 @@ Web Programming menggunakan Visual Studio Code dan browser.
 
 ### Hasil
 
-![Persiapan Praktikum](images/images.png)
+![Persiapan Praktikum](images/images.jpg)
 
 ---
 
