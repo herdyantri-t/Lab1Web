@@ -19,7 +19,7 @@ Pada tahap ini kita belajar menambahkan heading, dan melalukakn uji coba untuk m
 
 ### Hasil
 
-![menambahakan judul](images/latihan2.png)
+![menambahakan judul](images/Latihan2.png)
 
 ---
 
@@ -29,7 +29,7 @@ Pada tahap ini mempelajari bagaimanan cara memformat teks di dalam HTML.
 
 ### Hasil
 
-![memformat teks](images/latihan3.png)
+![memformat teks](images/Latihan3.png)
 
 ---
 
@@ -38,7 +38,7 @@ Pada tahap ini mempelajari bagaimanan menyisipkan gambar pada HTML.
 
 ### Hasil
 
-![menyisipkan gambar](images/latihan4.png)
+![menyisipkan gambar](images/Latihan4.png)
 
 ---
 
@@ -47,7 +47,7 @@ Untuk mengatur ukuran gambar dapat digunakan atribut width dan height.
 
 ### Hasil
 
-![ukuran gambar](images/latihan5.png)
+![ukuran gambar](images/Latihan5.png)
 
 ---
 
@@ -56,7 +56,7 @@ Pada tahap ini mempelajari cara membuat hyperlink
 
 ### Hasil
 
-![ukuran gambar](images/latihan6.png)
+![ukuran gambar](images/Latihan6.png)
 
 ---
 
@@ -65,7 +65,7 @@ Pada tahap ini mempelajari cara menambahkan list pada HTML.
 
 ### Hasil
 
-![ukuran gambar](images/latihan7.png)
+![ukuran gambar](images/Latihan7.png)
 
 ---
 
